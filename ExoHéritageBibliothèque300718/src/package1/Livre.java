@@ -1,5 +1,5 @@
 package package1;
 
-public class Livre {
+public class Livre extends Produits{
 
 }
